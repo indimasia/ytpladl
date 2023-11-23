@@ -1,6 +1,6 @@
-# Project Name
+# YT Playlist Audio Downloader
 
-YT Playlist Audio Downloader
+Python script to download audio from youtube using pewtube and ffmpeg
 
 ## Table of Contents
 
